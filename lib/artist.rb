@@ -7,5 +7,4 @@ class Artist
   
 end 
 
-class.Artist= "Beyonce"
 
