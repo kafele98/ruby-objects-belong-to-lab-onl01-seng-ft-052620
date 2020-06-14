@@ -3,5 +3,3 @@ class Post
 end
 
 post=Post.new 
-
-post.author("Uncle Bob")
