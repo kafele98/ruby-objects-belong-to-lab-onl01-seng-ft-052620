@@ -9,3 +9,5 @@ end
 
 
 Artist.new("Beyonce")
+
+Artist.name 
